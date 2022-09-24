@@ -10,8 +10,18 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@invertase/react-native-apple-authentication": "^2.2.2",
+    "@react-native-async-storage/async-storage": "^1.17.10",
+    "@react-native-community/netinfo": "^9.3.1",
+    "@react-native-picker/picker": "^2.4.4",
+    "amazon-cognito-identity-js": "^5.2.10",
+    "aws-amplify": "^4.3.36",
+    "aws-amplify-react-native": "^6.0.5",
+    "jwt-decode": "^3.1.2",
     "react": "17.0.2",
-    "react-native": "0.68.2"
+    "react-native": "0.68.2",
+    "react-native-fbsdk-next": "^10.1.0",
+    "react-native-inappbrowser-reborn": "^3.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
